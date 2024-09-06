@@ -1,0 +1,50 @@
+{
+	"music_disc_renaissance": {
+		"subtitle": "Manke - Renaissance",
+		"sounds": [
+			"mankesmusic:renaissance"
+		]
+	},
+	"music_disc_flow": {
+		"subtitle": "Manke - Flow",
+		"sounds": [
+			"mankesmusic:flow"
+		]
+	},
+	"music_disc_districts": {
+		"subtitle": "Gareth Coker - Districts",
+		"sounds": [
+			"mankesmusic:districts"
+		]
+	},
+	"music_disc_wooden_love": {
+		"subtitle": "C418 - Wooden Love",
+		"sounds": [
+			"mankesmusic:wooden_love"
+		]
+	},
+	"music_disc_match_cut": {
+		"subtitle": "C418 - Match Cut",
+		"sounds": [
+			"mankesmusic:match_cut"
+		]
+	},
+	"music_disc_aria_math": {
+		"subtitle": "C418 - Aria Math",
+		"sounds": [
+			"mankesmusic:aria_math"
+		]
+	},
+	"music_disc_wings": {
+		"subtitle": "Manke - Wings",
+		"sounds": [
+			"mankesmusic:wings"
+		]
+	},
+	"music_disc_alpha": {
+		"subtitle": "C418 - Alpha",
+		"sounds": [
+			"mankesmusic:alpha"
+		]
+	}
+}

@@ -1,6 +1,7 @@
 package net.zane.mankesmusic;
 
 import net.fabricmc.api.ModInitializer;
+import net.zane.mankesmusic.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -11,6 +12,7 @@ public class MankesMusic implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
+		ModItems.registerModItems();
 
 	}
 }
