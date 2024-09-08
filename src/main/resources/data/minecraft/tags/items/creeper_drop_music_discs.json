@@ -3,7 +3,6 @@
   "values": [
     {"id": "mankesmusic:music_disc_match_cut", "required": false},
     {"id": "mankesmusic:music_disc_wings", "required": false},
-    {"id": "mankesmusic:music_disc_renaissance", "required": false},
     {"id": "mankesmusic:music_disc_wooden_love", "required": false}
   ]
 }
