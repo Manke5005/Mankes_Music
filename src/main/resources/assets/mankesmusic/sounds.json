@@ -1,8 +1,8 @@
 {
-	"music_disc_renaissance": {
-		"subtitle": "Manke - Renaissance",
+	"music_disc_night_walker": {
+		"subtitle": "Manke - Night Walker",
 		"sounds": [
-			"mankesmusic:renaissance"
+			"mankesmusic:night_walker"
 		]
 	},
 	"music_disc_flow": {
@@ -17,16 +17,16 @@
 			"mankesmusic:districts"
 		]
 	},
-	"music_disc_wooden_love": {
-		"subtitle": "C418 - Wooden Love",
+	"music_disc_anti": {
+		"subtitle": "Firch - Anti",
 		"sounds": [
-			"mankesmusic:wooden_love"
+			"mankesmusic:anti"
 		]
 	},
-	"music_disc_match_cut": {
-		"subtitle": "C418 - Match Cut",
+	"music_disc_work_life_imbalance": {
+		"subtitle": "C418 - Off Balance",
 		"sounds": [
-			"mankesmusic:match_cut"
+			"mankesmusic:work_life_imbalance"
 		]
 	},
 	"music_disc_aria_math": {
@@ -45,6 +45,11 @@
 		"subtitle": "C418 - Alpha",
 		"sounds": [
 			"mankesmusic:alpha"
+		]
+	},
+	"oof_sound_effect": {
+		"sounds": [
+			"mankesmusic:oof_sound_effect"
 		]
 	}
 }

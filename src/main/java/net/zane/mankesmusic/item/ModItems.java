@@ -13,17 +13,14 @@ import net.minecraft.util.registry.Registry;
 public class ModItems {
 
 	// My Modded Discs -->
-	public static final Item RECORD_RENAISSANCE = registerItem("music_disc_renaissance", new RecordDiscItem(7, ModSounds.MUSIC_RENAISSANCE, new FabricItemSettings().rarity(Rarity.RARE).group(ItemGroup.MISC).maxCount(1)));
-	public static final Item RECORD_WOODEN_LOVE = registerItem("music_disc_wooden_love", new RecordDiscItem(7, ModSounds.MUSIC_WOODEN_LOVE, new FabricItemSettings().rarity(Rarity.RARE).group(ItemGroup.MISC).maxCount(1)));
+	public static final Item RECORD_RENAISSANCE = registerItem("music_disc_night_walker", new RecordDiscItem(7, ModSounds.MUSIC_NIGHT_WALKER, new FabricItemSettings().rarity(Rarity.RARE).group(ItemGroup.MISC).maxCount(1)));
+	public static final Item RECORD_WOODEN_LOVE = registerItem("music_disc_anti", new RecordDiscItem(7, ModSounds.MUSIC_ANTI, new FabricItemSettings().rarity(Rarity.RARE).group(ItemGroup.MISC).maxCount(1)));
 	public static final Item RECORD_WINGS = registerItem("music_disc_wings", new RecordDiscItem(7, ModSounds.MUSIC_WINGS, new FabricItemSettings().rarity(Rarity.RARE).group(ItemGroup.MISC).maxCount(1)));
-	public static final Item RECORD_MATCH_CUT = registerItem("music_disc_match_cut", new RecordDiscItem(7, ModSounds.MUSIC_MATCH_CUT, new FabricItemSettings().rarity(Rarity.RARE).group(ItemGroup.MISC).maxCount(1)));
+	public static final Item RECORD_MATCH_CUT = registerItem("music_disc_work_life_imbalance", new RecordDiscItem(7, ModSounds.MUSIC_WORK_LIFE_IMBALANCE, new FabricItemSettings().rarity(Rarity.RARE).group(ItemGroup.MISC).maxCount(1)));
 	public static final Item RECORD_DISTRICTS = registerItem("music_disc_districts", new RecordDiscItem(7, ModSounds.MUSIC_DISTRICTS, new FabricItemSettings().rarity(Rarity.RARE).group(ItemGroup.MISC).maxCount(1)));
 	public static final Item RECORD_ALPHA = registerItem("music_disc_alpha", new RecordDiscItem(7, ModSounds.MUSIC_ALPHA, new FabricItemSettings().rarity(Rarity.RARE).group(ItemGroup.MISC).maxCount(1)));
 	public static final Item RECORD_FLOW = registerItem("music_disc_flow", new RecordDiscItem(7, ModSounds.MUSIC_FLOW, new FabricItemSettings().rarity(Rarity.RARE).group(ItemGroup.MISC).maxCount(1)));
 	public static final Item RECORD_ARIA_MATH = registerItem("music_disc_aria_math", new RecordDiscItem(7, ModSounds.MUSIC_ARIA_MATH, new FabricItemSettings().rarity(Rarity.RARE).group(ItemGroup.MISC).maxCount(1)));
-
-	/*public static final Item RECORD_DOOR = registerItem("record_door", new RecordDiscItem(7, ModSounds.MUSIC_DOOR, new FabricItemSettings().rarity(Rarity.RARE).group(ItemGroup.MISC).maxCount(1)));*/
-
 
 
 	// NO NEED TO TOUCH -->

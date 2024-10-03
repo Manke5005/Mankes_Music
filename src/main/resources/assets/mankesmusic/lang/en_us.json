@@ -1,21 +1,25 @@
 {
-	"item.mankesmusic.music_disc_renaissance": "Music Disc",
+	"item.mankesmusic.music_disc_night_walker": "Music Disc",
 	"item.mankesmusic.music_disc_wings": "Music Disc",
-	"item.mankesmusic.music_disc_match_cut": "Music Disc",
+	"item.mankesmusic.music_disc_work_life_imbalance": "Music Disc",
 	"item.mankesmusic.music_disc_districts": "Music Disc",
-	"item.mankesmusic.music_disc_wooden_love": "Music Disc",
+	"item.mankesmusic.music_disc_anti": "Music Disc",
 	"item.mankesmusic.music_disc_flow": "Music Disc",
 	"item.mankesmusic.music_disc_aria_math": "Music Disc",
 	"item.mankesmusic.music_disc_alpha": "Music Disc",
 
 
-	"item.mankesmusic.music_disc_renaissance.desc": "Manke - synth-ia",
+	"item.mankesmusic.music_disc_night_walker.desc": "Manke - night walker",
 	"item.mankesmusic.music_disc_districts.desc": "Manke - districts",
-	"item.mankesmusic.music_disc_match_cut.desc": "C418 - match cut",
-	"item.mankesmusic.music_disc_wooden_love.desc": "C418 - wooden love",
+	"item.mankesmusic.music_disc_work_life_imbalance.desc": "Manke - off balance",
+	"item.mankesmusic.music_disc_anti.desc": "Firch - anti",
 	"item.mankesmusic.music_disc_wings.desc": "Manke - wings",
 	"item.mankesmusic.music_disc_flow.desc": "Manke - flow",
 	"item.mankesmusic.music_disc_aria_math.desc": "C418 - aria math",
-	"item.mankesmusic.music_disc_alpha.desc": "C418 - alpha"
+	"item.mankesmusic.music_disc_alpha.desc": "C418 - alpha",
 
+	"mankesmusic.advancements.obtain_music_disc_night_walker": "You Can Officially Mine at Night Now!",
+	"mankesmusic.advancements.obtain_music_disc_night_walker_desc": "Obtain the Night Walker music disc from killing the Wither",
+	"mankesmusic.advancements.obtain_music_disc_alpha": "Let the Credits Roll",
+	"mankesmusic.advancements.obtain_music_disc_alpha_desc": "Obtain the Alpha music disc from slaying the Ender Dragon"
 }

@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:adventure/root",
+  "display": {
+    "title": {
+      "translate": "mankesmusic.advancements.obtain_music_disc_alpha"
+    },
+    "description": {
+      "translate": "mankesmusic.advancements.obtain_music_disc_alpha_desc"
+    },
+    "icon": {
+      "item": "mankesmusic:music_disc_alpha"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "obtain": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["mankesmusic:music_disc_alpha"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "obtain"
+    ]
+  ]
+}
